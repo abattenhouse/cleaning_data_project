@@ -32,7 +32,7 @@ Measurement units are described at the
 Human Activity Recognition Using Smartphones Data Set hosted at the UCI Machine
 Learning Repository: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-Data columns (4-89) are: 
+Activity/subject average value data measurement columns (4-89) are: 
 
 4\. **tBodyAcc\_mean\_X**                   
 5\. **tBodyAcc\_mean\_Y**                   
