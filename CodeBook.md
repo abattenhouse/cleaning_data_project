@@ -28,9 +28,9 @@ for any hypens (**-**) and commas (**,**).
 
 Data columns (4-89) are:
 
-4. **tBodyAcc_mean_X**                   
-5. **tBodyAcc_mean_Y**                   
-6. **tBodyAcc_mean_Z**                   
+4\. **tBodyAcc_mean_X**                   
+5\. **tBodyAcc_mean_Y**                   
+6\. **tBodyAcc_mean_Z**                   
 7. **tBodyAcc_std_X**                    
 8. **tBodyAcc_std_Y**                    
 9. **tBodyAcc_std_Z**                    
