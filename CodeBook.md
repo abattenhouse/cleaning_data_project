@@ -26,7 +26,13 @@ was extracted. The resulting 86 tidy dataset measurement column names were deriv
 the UCI HAR feature labels by removing parentheses and substituting an underscore (**\_**) 
 for any hypens (**-**) and commas (**,**).
 
-Data columns (4-89) are:
+Each data value is an average value for all
+the feature measurements taken for the corresponding activity and subject.
+Measurement units are described at the
+Human Activity Recognition Using Smartphones Data Set hosted at the UCI Machine
+Learning Repository: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
+Data columns (4-89) are: 
 
 4\. **tBodyAcc\_mean\_X**                   
 5\. **tBodyAcc\_mean\_Y**                   
@@ -108,8 +114,8 @@ Data columns (4-89) are:
 81\. **fBodyBodyGyroJerkMag\_std**          
 82\. **fBodyBodyGyroJerkMag\_meanFreq**     
 83\. **angletBodyAccMean\_gravity**         
-84\. **angletBodyAccJerkMean\_gravityMean** 
-85\. **angletBodyGyroMean\_gravityMean**    
+84\. **angletBodyAccJerkMean\_gravityMean**
+85\. **angletBodyGyroMean\_gravityMean**
 86\. **angletBodyGyroJerkMean\_gravityMean**
 87\. **angleX\_gravityMean**                
 88\. **angleY\_gravityMean**                
