@@ -79,6 +79,6 @@ melted <- melt(merged, id=c("activity", names(meta_all)),
 tidy <- dcast(melted, activity + subject + set ~ variable, mean)
 
 # write out the tidy data set
-write.table(tidy, file="../Tidy_UCI_HAR_subset.txt", sep="\t", row.names=F, col.names=T)
+write.table(tidy, file="../Tidy_UCI_HAR_subset.txt", row.names=F, col.names=T)
 
 
